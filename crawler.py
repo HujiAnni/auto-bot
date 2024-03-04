@@ -45,7 +45,7 @@ def wait_for_download(directory, timeout=30):
 
 ### Set up Chrome WebDriver
 options = webdriver.ChromeOptions()
-ptions.add_argument('--headless')  # Run in background if preferred
+options.add_argument('--headless')  # Run in background if preferred
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
 ### Navigate to the templates page
