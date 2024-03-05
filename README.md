@@ -4,9 +4,9 @@ This is an example crawler that help you download files from websites in bulk.
 
 ## Description
 
-The crawler used Selenium with Python to mimic the user interactions when downloading files from website. With this program, user can automate the download in bulk.
-The automation requires no monitoring and will run in the background for approximately 3-4 hours in the background once you execute the script - A dramatic reduction in manual effort and time, with the entire operation running seamlessly in the background.
-In the meantime, user can always check the progress of the automation, as we have printed out the steps the bot is taking (navigating to the download page, downloading and waiting for the downloaded file, or moving the file to the directory), and how much percentage of work it has finished. It's like checking in with a virtual assistant sharing any updates it has for the project. While freeing your hands, the user still have full control of the progress with free-of-mind!
+<p>The crawler used Selenium with Python to mimic the user interactions when downloading files from website. With this program, user can automate the download in bulk.</p>
+<p><p>The automation requires no monitoring and will run in the background for approximately 3-4 hours in the background once you execute the script - A dramatic reduction in manual effort and time, with the entire operation running seamlessly in the background.</p>
+In the meantime, user can always check the progress of the automation, as we have printed out the steps the bot is taking (navigating to the download page, downloading and waiting for the downloaded file, or moving the file to the directory), and how much percentage of work it has finished. It's like checking in with a virtual assistant sharing any updates it has for the project. While freeing your hands, the user still have full control of the progress with free-of-mind!</p>
 
 ## Getting Started
 
@@ -41,4 +41,5 @@ chmod +x crawler.py
 
 ## Authors
 
-Jennifer Hu [@HujiAnni](https://www.customerx.org)
+Jennifer Hu [@HujiAnni](https://github.com/HujiAnni)
+from [@CustomerX LLC](https://www.customerx.org)
